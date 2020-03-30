@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1585592651 source:c:\users\gonzalo cerbelli\documents\ayed\ayed-diagnostico-2020\tp-diagnostico\main.cpp
+	<iostream>
+	<vector>
+	<cstring>
+
